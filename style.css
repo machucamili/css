@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    font-family: sans-serif;
+}
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.title {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.list {
+margin-top: 10px;
+list-style: none;
+padding-left: 0;
+}
+.list li {
+    display: inline-block;
+    margin-left: 20px;
+}
+.list a{
+    color: white;
+    background-color: aquamarine;
+    padding: 10px;
+    text-decoration: none;
+}
+.list .contacto{
+    background-color: green
+}
